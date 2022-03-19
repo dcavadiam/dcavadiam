@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Cavadia</h1>
-<h3 align="center">I'm a systems engineer with a focus on Front-end Web Development.</h3>
+<h3 align="center">I'm a systems engineer with interest in Front-end Web Development.</h3>
 
 - 🔭 I’m currently working on **web designer and developer**
 
