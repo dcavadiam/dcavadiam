@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **web designer and developer**
 
-- 🌱 I’m currently learning **Backend Development and Git**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **dcavadia@uninorte.edu.co**
 
