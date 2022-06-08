@@ -8,7 +8,7 @@ I'm a systems engineer student with interest in Front-end Web Development.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [dcavadia@uninorte.edu.co](mailto:dcavadia@uninorte.edu.co)
-* 🧠  I'm learning NodeJS, Express and Git
+* 🧠  I'm practicing React and Git
 
 ### Skills
 
