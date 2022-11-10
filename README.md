@@ -1,13 +1,13 @@
-Hi 👋 My name is Diego Andres Cavadia Montes
+Hi 👋 My name is Diego Cavadia
 ============================================
 
-Front-end Web Development.
+Software Development
 --------------------------
 
-I'm a systems engineer student with interest in Front-end Web Development.
+I'm a software engineer with interest in Web Development.
 
 * 🌍  I'm based in Colombia
-* ✉️  You can contact me at [dcavadia@uninorte.edu.co](mailto:dcavadia@uninorte.edu.co)
+* ✉️  You can contact me at [diegocamodev@gmail.com](mailto:diegocamodev@gmail.com)
 * 🧠  I'm practicing React and Git
 
 ### Skills
