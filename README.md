@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
-</div>  
-  
-
 ### <div align="center">I'm Diego Cavadia, a software developer with an interest in frontend 👨‍💻 working since 2022 🚀</div>  
   
 
