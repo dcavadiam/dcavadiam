@@ -20,7 +20,7 @@
 
 
 ## :man_technologist: About Me:
-I'm a systems and Computer Engineer (with accreditation from the Engineering Accreditation Commission of ABET) specialized in software development with a focus on Frontend and Mobile, highlighting skills in HTML, CSS, JavaScript, React, Dart and Flutter. I consider myself a flexible and responsible person who is adaptable to any situation and always willing to learn more.
+I'm a systems and Computer Engineer (with accreditation from the Engineering Accreditation Commission of ABET) specialized in software development with a focus on Frontend and Mobile, highlighting skills in HTML, CSS, JavaScript, React, Dart and Flutter.
 
 - 🔭 I’m currently working on Forms App.
 - 🌱 I’m currently learning more about Dart and Flutter.
