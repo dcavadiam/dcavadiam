@@ -22,8 +22,8 @@
 ## :man_technologist: About Me:
 I'm a systems and Computer Engineer (with accreditation from the Engineering Accreditation Commission of ABET) specialized in software development with a focus on Frontend and Mobile, highlighting skills in HTML, CSS, JavaScript, React, Dart and Flutter.
 
-- 🔭 I’m currently working on [Teslo App](https://github.com/dcavadiam/push_app).
-- 🌱 I’m currently learning more about Dart and Flutter.
+- 🔭 I’m currently working on [Portfolio](https://github.com/dcavadiam/potfolio).
+- 🌱 I’m currently learning more about TypeScript.
 - 📫 How to reach me: email me [diegocamodev@gmail.com](mailto:diegocamodev@gmail.com).
 
 
