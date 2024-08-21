@@ -10,7 +10,7 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on Portfolio.
+- 🔭 I’m currently working on [Portfolio](https://github.com/dcavadiam/portfolio).
 - 🌱 I’m currently learning more about TypeScript.
 - 📫 How to reach me: email me diegocamodev@gmail.com.
 <!--Intro end-->
