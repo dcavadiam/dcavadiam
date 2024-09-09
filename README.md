@@ -1,80 +1,33 @@
+# Hi, I'm Diego Cavadia 👋
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+```javascript
+const info = {
+  'age': 24,
+  'occupation': 'Frontend and Mobile Developer',
+  'origin': 'Colombian',
+  'languages': ['Spanish', 'English'],
+  'experience': '+2 years of job experience as Programmer',
+  'interests': ['Web Development', 'Mobile Development', 'UI/UX Design', 'Learning new technologies']
+}
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Diego Cavadia</h1></summary>
-  </ul>
-</div>
+if (attempt === 'unsuccessful') {
+  sad = false;
+  learnAndTryAgain();
+}
+```
 
-<!--Intro start-->
-- 🔭 I’m currently working on [Portfolio](https://github.com/dcavadiam/portfolio).
-- 🌱 I’m currently learning more about TypeScript.
-- 📫 How to reach me: email me diegocamodev@gmail.com.
-<!--Intro end-->
+## 🛠️ Skills
 
+| **Category**              | **Technologies**                                                                                     |
+|---------------------------|------------------------------------------------------------------------------------------------------|
+| **Frontend Development**   | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind&perline=8" alt="Frontend Technologies" /> |
+| **UI/Design**             | <img src="https://skillicons.dev/icons?i=figma,canvas&perline=8" alt="UI/Design Tools" />            |
+| **Mobile Development**     | <img src="https://skillicons.dev/icons?i=dart,flutter&perline=8" alt="Mobile Technologies" />       |
+| **Version Control**        | <img src="https://skillicons.dev/icons?i=git,github&perline=8" alt="Version Control Tools" />       |
+| **Development Tools**      | <img src="https://skillicons.dev/icons?i=vscode&perline=8" alt="Development Tools" />               |
 
+## Github Stats
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dcavadiam&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dcavadiam&theme=dark&hide_border=false" /> 
-</td>
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcavadiam&show_icons=true&theme=dracula)
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dcavadiam&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,figma,github,html,js,nextjs,react,tailwind,ts,vscode,dart,flutter&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/diego-cavadia-montes/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://x.com/dcavadiam" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/dcavadiam" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  </p>
-
-
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<small>Readme Template by: [1010nishant](https://github.com/1010nishant)</small>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcavadiam&layout=compact&theme=dracula)
