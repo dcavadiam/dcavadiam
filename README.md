@@ -42,7 +42,7 @@ if (attempt === "unsuccessful") {
 
 ## 🌟 Open Source Contributions
 
-- **[curso-python](https://github.com/midudev/curso-python)** - Enhanced the visual design and structure of Midudev's Python course README, implementing better section organization and improving the reading experience.
+- **[curso-python](https://github.com/midudev/curso-python)** - Enhanced the visual design and structure of Midudev's Python course README, implementing better section organization and improving the reading experience. [Commit here](https://github.com/midudev/curso-python/commit/a935607f3a3b44db8fe7712e8bc0fa4e8a6c2097)
 
 > More contributions coming soon! 🚀
 
