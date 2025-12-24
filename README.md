@@ -1,7 +1,7 @@
 # Hi, I'm Diego Cavadia 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Cavadia-blue)](https://linkedin.com/in/diego-cavadia-montes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Diego_Cavadia-purple)](<[https://tu-portfolio.com](https://cmdev-portfolio.netlify.app/)>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Diego_Cavadia-purple)](https://cmdev-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-diegocamodev@gmail.com-red)](mailto:diegocamodev@gmail.com)
 
 ## 👨‍💻 About Me
@@ -9,11 +9,11 @@
 ```javascript
 const info = {
   age: 25,
-  occupation: "Frontend and Mobile Developer",
+  occupation: "Frontend Developer",
   origin: "Colombian",
   languages: ["Spanish", "English"],
-  experience: "+2 years of job experience as Programmer",
-  interests: ["Web Development", "Mobile Development", "UI/UX Design"],
+  experience: "+3 years of job experience as Programmer",
+  interests: ["Web Development", "Mobile Development", "UI/UX Design", "Graphic Design"],
 };
 
 if (attempt === "unsuccessful") {
@@ -33,12 +33,6 @@ if (attempt === "unsuccessful") {
 | **Development Tools**    | <img src="https://skillicons.dev/icons?i=vscode&perline=8" alt="Development Tools" />                                         |
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dcavadiam&show_icons=true&theme=dracula" alt="Diego's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcavadiam&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
 
 ## 🌟 Open Source Contributions
 
@@ -47,5 +41,3 @@ if (attempt === "unsuccessful") {
 > More contributions coming soon! 🚀
 
 ---
-
-⭐️ From [dcavadiam](https://github.com/dcavadiam)
