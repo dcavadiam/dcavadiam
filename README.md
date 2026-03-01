@@ -8,11 +8,11 @@
 
 ```javascript
 const info = {
-  age: 25,
-  occupation: "Frontend Developer",
+  age: 26,
+  occupation: "Software Developer",
   origin: "Colombian",
   languages: ["Spanish", "English"],
-  experience: "+3 years of job experience as Programmer",
+  experience: "+4 years of job experience as Programmer",
   interests: ["Web Development", "Mobile Development", "UI/UX Design", "Graphic Design"],
 };
 
